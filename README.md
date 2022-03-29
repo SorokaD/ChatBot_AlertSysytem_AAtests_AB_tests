@@ -1,5 +1,5 @@
 # ChatBot_AlertSysytem_AAtests_AB_tests  
-Чат бот telegram.  
+Telegram chat bot.  
 Система алертов.  
 АА сплитование и тестирование.  
 АВ тестирование.  
